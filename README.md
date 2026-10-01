@@ -1,4 +1,4 @@
-# CLLwF: Continual Learning without Forgetting for Multi-Domain Wildfire Image Segmentation
+# A Task-Incremental Benchmark for Catastrophic Forgetting in Heterogeneous Semantic Segmentation Domains
 
 This repository contains the code accompanying the paper:
 
